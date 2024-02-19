@@ -7,7 +7,7 @@ This Python script performs Google searches for specific queries and scrapes the
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/google-search-scraper.git
+    git clone https://github.com/Kutta22/Google-Search-Scraper.git
     ```
 
 2. Navigate to the project directory:
